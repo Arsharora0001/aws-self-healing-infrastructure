@@ -1,0 +1,6 @@
+.venv/
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/lambda.zip
+*.tfstate
+*.tfstate.backup
