@@ -14,6 +14,7 @@ allowed_ssh_cidr = "0.0.0.0/0"
 key_name = ""
 
 # only needed if create_ec2=false
-target_instance_id = "i-0e84f326238ca2571"
-admin_email        = "aroraarsh0005@gmail.com"
+target_instance_id = "xxxxxxxxx"
+admin_email        = "xxxx@gmail.com"
+
 
